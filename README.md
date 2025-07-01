@@ -22,3 +22,6 @@ Make sure Python is installed. Then install dependencies:
 
 ```bash
 pip install opencv-python pandas
+output image:![image](https://github.com/user-attachments/assets/e08e4a24-a168-4e73-ba3d-0fd1e6cd7661)
+![image](https://github.com/user-attachments/assets/99cd5683-d15b-4267-8b9f-59604d82eb14)
+
